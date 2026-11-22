@@ -4,6 +4,9 @@ QueryCraft is a browser-based SQL playground built with Streamlit and SQLite. Up
 
 ## Features
 
+🚀project links
+https://querycraft-interactive-sql-analytics-playground-hmwbsp6fs4gpx9.streamlit.app/
+
 - Upload multiple CSV or Excel files and load them as SQLite tables.
 - Explore table names, columns and SQLite data types.
 - SQL editor with example queries and a session-only saved-query library.
